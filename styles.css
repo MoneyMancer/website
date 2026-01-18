@@ -50,7 +50,7 @@ header .container {
 }
 
 .header-logo {
-  background-image: url('logo_assets/MoneyMystic.svg');
+  background-image: url('Brand/logo_assets/MoneyMystic.svg');
   background-size: contain;
   background-repeat: no-repeat;
   width: 60px;
